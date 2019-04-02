@@ -1,0 +1,22 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Node.js workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/node-workshop.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/node-workshop/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/node-workshop#readme"
+}
