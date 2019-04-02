@@ -4,6 +4,7 @@
   "description": "Node.js workshop",
   "main": "index.js",
   "scripts": {
+    "run": "node index.js",
     "test": "npm test"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/rajikaimal/node-workshop/issues"
   },
-  "homepage": "https://github.com/rajikaimal/node-workshop#readme"
+  "homepage": "https://github.com/rajikaimal/node-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
 }
