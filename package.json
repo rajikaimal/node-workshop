@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
+    "run:cluster": "node cluster.js",
     "test": "npm test"
   },
   "repository": {
